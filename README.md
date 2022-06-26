@@ -1,3 +1,3 @@
-<a href="https://github.com/ZazerConer/YouTube-to-M3U8/actions/workflows/SukeTV.yml">
-<img src="https://badgen.net/badge/SukeTV/Status/green?icon=github">
+<a href="https://github.com/ZazerConer/dnd/actions/workflows/token.yml">
+<img src="https://badgen.net/badge/Generated/Status/green?icon=github">
 </a>

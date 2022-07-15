@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<style>
+/* Body style */
+* {margin: 0;
+padding: 0;
+box-sizing: border-box;}
+body {background: #212121;
+height: 100vh;
+display: grid;
+font-size: 100%;
+align-items: center;
+text-align: center;}
+
+/* Text */
+h3 {color: #fff}
+h2 {color: #424242;
+margin: 0 100px 10px 0;}
+p {color: #fff;}
+
+/* Image/logo */
+img {width: 200px;
+height: auto;
+border: --;
+border-radius: --;}
+
+/* Audio player */
+audio {width: 80px;
+border: none;
+outline: none;
+controlsList: nodownload;
+float: right;
+margin-top: 3px;}
+audio::-webkit-media-controls-panel
+{background: #ccc;}
+audio::-webkit-media-controls-play-button
+{display: --;}
+audio::-webkit-media-controls-timeline 
+{display: none;}
+audio::-webkit-media-controls-mute-button
+{display: none;}
+audio::-webkit-media-controls-current-time-display
+{display: none;}
+audio::-webkit-media-controls-time-remaining-display
+{display: none;}
+
+/* Button back & next */
+.left {float: left;
+padding: 3px;
+margin-top: 5rem;
+padding: 0 8px 4px 3px;
+border-radius: 50%;
+margin-left: 7rem;
+outline: none;}
+.back {color: #424242;
+font-size: 25px;
+text-decoration: none;
+padding: 0 2px 2px 0;
+outline : none;
+-webkit-tap-highlight-color: transparent;}
+.right {float: right;
+margin-top: 5rem;
+padding: 0 3px 4px 3px;
+border-radius: 50%;
+margin-right: 7rem;
+outline: none;}
+.next {color: #424242;
+font-size: 25px;
+text-decoration: none;
+padding: 0 2px 2px 5px;
+outline : none;
+-webkit-tap-highlight-color: transparent;}
+.left:active {background: none;
+opacity: 0;
+transition: 0.2s;}
+.right:active {background: none;
+opacity: 0;
+transition: 0.2s;}
+.section-page {position: fixed;
+width: 100%;
+bottom: 0;
+left: 0;
+right: 0;
+margin-bottom: 90px;}
+
+/* Footer */
+footer {position: fixed;
+width: 100%;
+bottom: 0;
+left: 0;
+right: 0;
+background: #ccc;}
+
+/* loader */
+.load {background: #ccc; 
+border: none; 
+color: #424242;
+font-size: 17px;
+outline: none;
+float: left;
+margin: 23px 0 5px 15px;}
+
+.cont {position: fixed;
+top: 0;
+left: 0;
+right: 0;
+width: 100%;}
+
+.my {color: #ccc;
+float: right;
+margin: 20px;
+font-size: 13px;}
+</style>
+
+</head>
+<body>
+<div class="cont"> 
+<p class="my">© 2022 TV MALAYSIA</p> 
+</div>
+
+<section>
+<!-- Image/logo -->
+<img src="https://i.imgur.com/am1aLvA.png">
+<br><br>
+<!-- Title song/artist -->
+<h3>Prambors FM</h3>
+</section>
+
+<br>
+
+<!-- Back & Next section -->
+<div class="section-page">
+<!-- Button back -->
+<button class="left">
+<a class="back" href="#">&#x25C0;
+</a></button>
+<!-- Button next -->
+<button class="right">
+<a class="next" href="#">&#x25B6;
+</a></button>
+</div>
+
+<footer>
+<!-- Audio player -->
+<audio controls autoplay>
+<source src="https://22283.live.streamtheworld.com/PRAMBORS_FM.mp3" type="audio/mpeg">
+</audio> 
+
+<!-- loader -->
+<div class="load">
+<i class="fa fa-spinner fa-spin"></i> On Stream
+</div>
+
+<!-- Play now -->
+<h2>
+<p>now</p>ERA FM
+</h2>
+</footer>
+
+</body>
+</html>

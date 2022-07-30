@@ -1,8 +1,6 @@
-<img height="60px" src="https://raw.githubusercontent.com/ZazerConer/dnd/main/file/text/dnd.svg" alt=""/>
+## Edit text in Readme.md with color
 
-<hr>
-
-## SVG <text>
+## SVG ```<text>```
 
 **Create file _(text.svg)._**
 
@@ -34,6 +32,10 @@ _or_
 ```rubi
 <img height="100px" https://user-images.githubusercontent.com/000/000-aaa.svg" alt=""/>
 ```
+
+## Output
+
+<img height="80px" src="https://raw.githubusercontent.com/ZazerConer/dnd/main/file/text/dnd.svg" alt=""/>
 
 <hr>
 <br>

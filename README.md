@@ -1,8 +1,8 @@
-<img height="80px" src="https://raw.githubusercontent.com/ZazerConer/dnd/main/file/text/dnd.svg" alt=""/>
+<img height="60px" src="https://raw.githubusercontent.com/ZazerConer/dnd/main/file/text/dnd.svg" alt=""/>
 
 <hr>
 
-### SVG <text>
+## SVG <text>
 
 **Create file _(text.svg)_**
 
@@ -17,13 +17,15 @@
 </svg>
 ```
 
-### Readme.md
+## Readme.md edit text
 
-**Edit text**
+**Generate svg text with image _example_**
 
-```
+```rubi
 ![google](https://user-images.githubusercontent.com/000/000-aaa.svg)
 ```
+
+_or_
 
 ```rubi
 <img height="100px" https://user-images.githubusercontent.com/000/000-aaa.svg" alt=""/>
@@ -31,4 +33,4 @@
 
 <hr>
 
-**[Do Not Doxies](http://)**
+**[Do Not Doxies](https://github.com/ZazerConer/dnd)**

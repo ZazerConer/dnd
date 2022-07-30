@@ -1,1 +1,1 @@
-<p style="color:red;font-weight:bold;">dnd file</p>
+<p style="color:#F44336">dnd file</p>

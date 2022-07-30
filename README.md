@@ -4,7 +4,7 @@
 
 ## SVG <text>
 
-**Create file _(text.svg)_**
+**Create file _(text.svg)._**
 
 ```rubi
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 55 20" fill="none">
@@ -19,7 +19,11 @@
 
 ## Readme.md edit text
 
-**Generate svg text with image _example_**
+**Generate svg text with image.
+
+<br>
+
+**_Example:_**
 
 ```rubi
 ![google](https://user-images.githubusercontent.com/000/000-aaa.svg)
@@ -32,5 +36,6 @@ _or_
 ```
 
 <hr>
+<br>
 
 **[Do Not Doxies](https://github.com/ZazerConer/dnd)**

@@ -19,7 +19,7 @@
 
 ## Readme.md edit text
 
-**Generate svg text with image.
+**Generate svg text with image.**
 
 <br>
 

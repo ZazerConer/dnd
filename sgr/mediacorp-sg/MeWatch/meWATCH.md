@@ -27,14 +27,14 @@
 
 - **iPhone, iPad and Apple TV _[App Store](https://apps.apple.com/sa/app/mewatch-video-movies-tv/id566561555)_**
 
-- **Online streaming _[meWATCH](https://www.mewatch.sg)**
+- **Online streaming _[meWATCH](https://www.mewatch.sg)_**
 
-- **Website _[mewatch.org](https://www4.mewatch.sg/about-mewatch)**
+- **Website _[mewatch.org](https://www4.mewatch.sg/about-mewatch)_**
 
 <br>
 <hr>
 
-**Note : This meWATCH is only available in Singapore, can't be viewed outside this region (Blocked).**
+**Note : This meWATCH is only available in Singapore, can't be viewed outside this region! (Blocked).**
 
 <br>
 

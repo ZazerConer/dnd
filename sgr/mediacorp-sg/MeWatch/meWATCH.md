@@ -32,9 +32,10 @@
 - **Website _[mewatch.org](https://www4.mewatch.sg/about-mewatch)**
 
 <br>
+<hr>
 
 **Note : This meWATCH is only available in Singapore, can't be viewed outside this region (Blocked).**
 
-<img align="center" src="meWATCH.png" width="100px" height="100px">
+<br>
 
-<hr>
+<img align="right" src="meWATCH.png" width="120px" height="120px">

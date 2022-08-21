@@ -5,13 +5,13 @@
 
 # Mediacorp's Free Channels
 
-**- Channel 5**
-**- Channel 8**
-**- Channel U**
-**- Channel Suria**
-**- Channel Vasantham**
-**- CNA**
-**- meWatch Live 1 & 2**
+- **Channel 5**
+- **Channel 8**
+- **Channel U**
+- **Channel Suria**
+- **Channel Vasantham**
+- **CNA**
+- **meWatch Live 1 & 2**
 
 # Official meWATCH
 
@@ -19,17 +19,17 @@
 
 **meWATCH is your all-in-one entertainment hub offering free access to on-demand dramas, entertainment, news, sports and LIVE programmes. Premium content from partners like HBO GO, Animax + GEM, Simply South and ShemarooMe are also available.**
 
-**To access this free TV you can download this official app or watch online.
+**To access this free TV you can download this official app or watch online.**
 
 <br>
 
-**- Android, Android TV _[Play Store](https://play.google.com/store/apps/details?id=sg.mediacorp.android&hl=en)_**
+- **Android, Android TV _[Play Store](https://play.google.com/store/apps/details?id=sg.mediacorp.android&hl=en)_**
 
-**- iPhone, iPad and Apple TV _[App Store](https://apps.apple.com/sa/app/mewatch-video-movies-tv/id566561555)_**
+- **iPhone, iPad and Apple TV _[App Store](https://apps.apple.com/sa/app/mewatch-video-movies-tv/id566561555)_**
 
-**- Online streaming _[meWATCH](https://www.mewatch.sg)**
+- **Online streaming _[meWATCH](https://www.mewatch.sg)**
 
-**- Website _[mewatch.org](https://www4.mewatch.sg/about-mewatch)**
+- **Website _[mewatch.org](https://www4.mewatch.sg/about-mewatch)**
 
 <br>
 

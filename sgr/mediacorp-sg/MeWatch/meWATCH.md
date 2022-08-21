@@ -29,12 +29,12 @@
 
 - **Online streaming _[meWATCH](https://www.mewatch.sg)_**
 
-- **Website _[mewatch.org](https://www4.mewatch.sg/about-mewatch)_**
+- **Website _[mewatch.sg](https://www4.mewatch.sg/about-mewatch)_**
 
 <br>
 <hr>
 
-**Note : This meWATCH is only available in Singapore, can't be viewed outside this region! (Blocked).**
+**Note :** This **meWATCH** is only available in Singapore, can't be viewed outside this region! (Blocked).
 
 <br>
 

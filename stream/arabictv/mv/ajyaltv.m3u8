@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:1
+#EXTINF:-1
 http://htvajyalint.mada.ps:8888/ajyalint/index.m3u8

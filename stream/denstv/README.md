@@ -51,12 +51,40 @@ _https://dens55.zazerconer.workers.dev/qwr9ew/s/s31/index.m3u8_
 - **Cinema World**
 _https://dens55.zazerconer.workers.dev/dr9445/h/h04/index.m3u8_
 
+- **My Cinema**
+_https://dens55.zazerconer.workers.dev/x6bnqe/h/h192/index.m3u8_
+
 - **My Cinema Europe**
 _https://dens55.zazerconer.workers.dev/uq2663/h/h18/index.m3u8_
+
+- **My Cinema Asia**
+_https://dens55.zazerconer.workers.dev/x6bnqe/h/h193/index.m3u8_
+
+- **My Family Channel**
+_https://dens55.zazerconer.workers.dev/x6bnqe/h/h194/index.m3u8_
 
 - **CGTN Documentary**
 _https://dens55.zazerconer.workers.dev/qwr9ew/s/s20/02.m3u8_
 
+<br>
+
+<div align="center"><strong>DENS Channel <i>(4 Mbps)</i></strong></div>
+
+<br>
+
+- **Dens ShowBiz**
+_https://zazerconer.github.io/dnd/stream/denstv/x6bnqe/d55/s/s35/index.m3u8_
+
+- **Dens Food**
+_https://zazerconer.github.io/dnd/stream/denstv/x6bnqe/d55/s/s38/index.m3u8_
+
+- **Dens Life Style**
+_https://zazerconer.github.io/dnd/stream/denstv/x6bnqe/d55/s/s65/index.m3u8_
+
+- **Dens Knowledge and Learning**
+_https://zazerconer.github.io/dnd/stream/denstv/x6bnqe/d55/s/s36/index.m3u8_
+
+<br>
 <br>
 
 ### Dens57
@@ -103,11 +131,38 @@ _https://dens57.zazerconer.workers.dev/qwr9ew/s/s31/index.m3u8_
 - **Cinema World**
 _https://dens57.zazerconer.workers.dev/dr9445/h/h04/index.m3u8_
 
+- **My Cinema**
+_https://dens57.zazerconer.workers.dev/x6bnqe/h/h192/index.m3u8_
+
 - **My Cinema Europe**
 _https://dens57.zazerconer.workers.dev/uq2663/h/h18/index.m3u8_
 
+- **My Cinema Asia**
+_https://dens57.zazerconer.workers.dev/x6bnqe/h/h193/index.m3u8_
+
+- **My Family Channel**
+_https://dens57.zazerconer.workers.dev/x6bnqe/h/h194/index.m3u8_
+
 - **CGTN Documentary**
 _https://dens57.zazerconer.workers.dev/qwr9ew/s/s20/02.m3u8_
+
+<br>
+
+<div align="center"><strong>DENS Channel <i>(4 Mbps)</i></strong></div>
+
+<br>
+
+- **Dens ShowBiz**
+_https://zazerconer.github.io/dnd/stream/denstv/x6bnqe/d57/s/s35/index.m3u8_
+
+- **Dens Food**
+_https://zazerconer.github.io/dnd/stream/denstv/x6bnqe/d57/s/s38/index.m3u8_
+
+- **Dens Life Style**
+_https://zazerconer.github.io/dnd/stream/denstv/x6bnqe/d57/s/s65/index.m3u8_
+
+- **Dens Knowledge and Learning**
+_https://zazerconer.github.io/dnd/stream/denstv/x6bnqe/d57/s/s36/index.m3u8_
 
 <br>
 <br>
